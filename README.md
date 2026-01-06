@@ -1,1 +1,1 @@
-Healthcare Domai Based EDA and ML project
+Healthcare Domain Based EDA and ML project
